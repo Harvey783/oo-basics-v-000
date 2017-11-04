@@ -10,5 +10,5 @@ class Shoe
     @condition = "new"
     puts "You shoe is as good as new"
   end
-
+  
 end
